@@ -56,7 +56,6 @@ Bitstream successfully generated for FPGA hardware implementation.
 ## Tools Used
 - Verilog HDL
 - Xilinx Vivado
-- Artix-7 FPGA
 - AXI4-Lite Protocol
 
 ---
